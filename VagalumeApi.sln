@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Presentation", "01. Presentation", "{6A675900-E0DB-43CF-9231-FB2491B40578}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Domain", "02. Domain", "{9AC2322E-8CB5-40CF-9121-EAC6B8496296}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Api", "03. Api", "{3E9587D1-8D38-4BAE-9F1E-F0DCE273C083}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Service", "04. Service", "{D1EFF6BB-6A10-49AB-9875-48E1BB451B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vagalume.Api.Domain", "Vagalume.Api.Domain\Vagalume.Api.Domain.csproj", "{C0CBA2F0-145D-4B11-A5E5-138358482358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vagalume.Api.Service", "Vagalume.Api.Service\Vagalume.Api.Service.csproj", "{C9823BFE-B814-4217-8F05-8066729BEA9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vagalume.Api.Core", "Vagalume.Api.Core\Vagalume.Api.Core.csproj", "{EC6B0547-A51D-4345-9742-EABC62139099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Teste", "ConsoleApp.Teste\ConsoleApp.Teste.csproj", "{EA883266-CF0B-47C9-955F-60AFF31BB53E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0CBA2F0-145D-4B11-A5E5-138358482358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CBA2F0-145D-4B11-A5E5-138358482358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CBA2F0-145D-4B11-A5E5-138358482358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CBA2F0-145D-4B11-A5E5-138358482358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9823BFE-B814-4217-8F05-8066729BEA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9823BFE-B814-4217-8F05-8066729BEA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9823BFE-B814-4217-8F05-8066729BEA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9823BFE-B814-4217-8F05-8066729BEA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6B0547-A51D-4345-9742-EABC62139099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6B0547-A51D-4345-9742-EABC62139099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6B0547-A51D-4345-9742-EABC62139099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6B0547-A51D-4345-9742-EABC62139099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA883266-CF0B-47C9-955F-60AFF31BB53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA883266-CF0B-47C9-955F-60AFF31BB53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA883266-CF0B-47C9-955F-60AFF31BB53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA883266-CF0B-47C9-955F-60AFF31BB53E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C0CBA2F0-145D-4B11-A5E5-138358482358} = {9AC2322E-8CB5-40CF-9121-EAC6B8496296}
+		{C9823BFE-B814-4217-8F05-8066729BEA9A} = {D1EFF6BB-6A10-49AB-9875-48E1BB451B0A}
+		{EC6B0547-A51D-4345-9742-EABC62139099} = {3E9587D1-8D38-4BAE-9F1E-F0DCE273C083}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3057898-AA54-4803-BAB7-3C05CD0D9130}
+	EndGlobalSection
+EndGlobal

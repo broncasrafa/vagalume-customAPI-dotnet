@@ -1,0 +1,9 @@
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Service\bin\Debug\Vagalume.Api.Service.dll
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Service\bin\Debug\Vagalume.Api.Service.pdb
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Service\bin\Debug\Vagalume.Api.Domain.dll
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Service\bin\Debug\Vagalume.Api.Domain.pdb
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Service\obj\Debug\Vagalume.Api.Service.csprojAssemblyReference.cache
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Service\obj\Debug\Vagalume.Api.Service.csproj.CoreCompileInputs.cache
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Service\obj\Debug\Vagalume.Api.Service.csproj.CopyComplete
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Service\obj\Debug\Vagalume.Api.Service.dll
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Service\obj\Debug\Vagalume.Api.Service.pdb

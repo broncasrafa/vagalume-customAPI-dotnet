@@ -1,0 +1,15 @@
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\bin\Debug\Vagalume.Api.Core.dll
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\bin\Debug\Vagalume.Api.Core.pdb
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\bin\Debug\HtmlAgilityPack.dll
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\bin\Debug\Newtonsoft.Json.dll
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\bin\Debug\Vagalume.Api.Domain.dll
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\bin\Debug\Vagalume.Api.Domain.pdb
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\bin\Debug\HtmlAgilityPack.xml
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\bin\Debug\Newtonsoft.Json.pdb
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\bin\Debug\Newtonsoft.Json.xml
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\obj\Debug\Vagalume.Api.Core.csprojAssemblyReference.cache
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\obj\Debug\Vagalume.Api.Core.csproj.CoreCompileInputs.cache
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\obj\Debug\Vagalume.Api.Core.csproj.CopyComplete
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\obj\Debug\Vagalume.Api.Core.dll
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\obj\Debug\Vagalume.Api.Core.pdb
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Core\bin\Debug\HtmlAgilityPack.pdb

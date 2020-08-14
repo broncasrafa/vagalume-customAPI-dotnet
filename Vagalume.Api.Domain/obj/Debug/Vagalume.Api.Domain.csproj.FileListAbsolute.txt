@@ -1,0 +1,10 @@
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Domain\bin\Debug\Vagalume.Api.Domain.dll
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Domain\bin\Debug\Vagalume.Api.Domain.pdb
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Domain\bin\Debug\Newtonsoft.Json.pdb
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Domain\obj\Debug\Vagalume.Api.Domain.csprojAssemblyReference.cache
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Domain\obj\Debug\Vagalume.Api.Domain.csproj.CoreCompileInputs.cache
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Domain\obj\Debug\Vagalume.Api.Domain.csproj.CopyComplete
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Domain\obj\Debug\Vagalume.Api.Domain.dll
+C:\_MyProjects\_.NET\Projects\VagalumeApi\Vagalume.Api.Domain\obj\Debug\Vagalume.Api.Domain.pdb
